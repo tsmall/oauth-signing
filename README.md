@@ -7,7 +7,7 @@ This program implements the basic logic for OAuth signing. I created it to make 
 This program is written in [TypeScript][] and run via [Deno][]. Follow these steps to run the tests.
 
 1. Clone this repository.
-2. Install Deno (by following [their instructions][Deno/install]).
+2. Install Deno (by following [their instructions][Deno Installation]).
 3. Navigate to the cloned code in your terminal.
 4. Run the `deno test` command.
 
@@ -21,6 +21,7 @@ These resources were very helpful for me when figuring out and verifying this al
 
 <!-- Links -->
 [Deno]: https://deno.land/
+[Deno Installation]: https://deno.land/#installation
 [OAuth Sandbox]: http://lti.tools/oauth/
 [TypeScript]: https://www.typescriptlang.org/
 [WordPress guide]: https://oauth1.wp-api.org/docs/basics/Signing.html
